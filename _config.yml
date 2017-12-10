@@ -1,7 +1,7 @@
 # Site settings
 title: Afridol
 description: Sistem informasi, sains dan teknologi, uin suska riau.
-cover: assets/images/download (1).jpg
+cover: assets/images/abstract_colour_background_green.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
