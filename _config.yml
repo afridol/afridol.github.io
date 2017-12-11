@@ -4,8 +4,7 @@ description: Sistem informasi, sains dan teknologi, uin suska riau.
 cover: assets/images/abstract_colour_background_green.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://sif.uin-suska.ac.id/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
